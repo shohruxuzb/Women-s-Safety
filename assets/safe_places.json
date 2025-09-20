@@ -1,0 +1,114 @@
+{
+  "safe_places": [
+    {
+      "id": "1",
+      "name": "Central Police Station",
+      "type": "police",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "address": "123 Main St, New York, NY 10001",
+      "phone": "+1-555-0123",
+      "hours": "24/7",
+      "description": "Main police station with emergency services"
+    },
+    {
+      "id": "2",
+      "name": "City General Hospital",
+      "type": "hospital",
+      "latitude": 40.7589,
+      "longitude": -73.9851,
+      "address": "456 Health Ave, New York, NY 10002",
+      "phone": "+1-555-0124",
+      "hours": "24/7",
+      "description": "Full-service hospital with emergency room"
+    },
+    {
+      "id": "3",
+      "name": "Downtown Shopping Mall",
+      "type": "mall",
+      "latitude": 40.7505,
+      "longitude": -73.9934,
+      "address": "789 Commerce Blvd, New York, NY 10003",
+      "phone": "+1-555-0125",
+      "hours": "9:00 AM - 10:00 PM",
+      "description": "Large shopping center with security"
+    },
+    {
+      "id": "4",
+      "name": "Westside Police Precinct",
+      "type": "police",
+      "latitude": 40.7614,
+      "longitude": -73.9776,
+      "address": "321 Safety St, New York, NY 10004",
+      "phone": "+1-555-0126",
+      "hours": "24/7",
+      "description": "Local police precinct"
+    },
+    {
+      "id": "5",
+      "name": "Metro Medical Center",
+      "type": "hospital",
+      "latitude": 40.7282,
+      "longitude": -73.9942,
+      "address": "654 Care Lane, New York, NY 10005",
+      "phone": "+1-555-0127",
+      "hours": "24/7",
+      "description": "Medical center with emergency services"
+    },
+    {
+      "id": "6",
+      "name": "Central Plaza Mall",
+      "type": "mall",
+      "latitude": 40.7505,
+      "longitude": -73.9934,
+      "address": "987 Plaza Way, New York, NY 10006",
+      "phone": "+1-555-0128",
+      "hours": "8:00 AM - 11:00 PM",
+      "description": "Shopping plaza with food court"
+    },
+    {
+      "id": "7",
+      "name": "Emergency Services Hub",
+      "type": "police",
+      "latitude": 40.6892,
+      "longitude": -74.0445,
+      "address": "147 Emergency Ave, New York, NY 10007",
+      "phone": "+1-555-0129",
+      "hours": "24/7",
+      "description": "Emergency response center"
+    },
+    {
+      "id": "8",
+      "name": "Community Health Clinic",
+      "type": "hospital",
+      "latitude": 40.7831,
+      "longitude": -73.9712,
+      "address": "258 Wellness Dr, New York, NY 10008",
+      "phone": "+1-555-0130",
+      "hours": "7:00 AM - 9:00 PM",
+      "description": "Community health center"
+    },
+    {
+      "id": "9",
+      "name": "Safe Haven Mall",
+      "type": "mall",
+      "latitude": 40.7614,
+      "longitude": -73.9776,
+      "address": "369 Security Blvd, New York, NY 10009",
+      "phone": "+1-555-0131",
+      "hours": "10:00 AM - 9:00 PM",
+      "description": "Mall with security and safe zones"
+    },
+    {
+      "id": "10",
+      "name": "Rapid Response Station",
+      "type": "police",
+      "latitude": 40.7282,
+      "longitude": -73.9942,
+      "address": "741 Quick St, New York, NY 10010",
+      "phone": "+1-555-0132",
+      "hours": "24/7",
+      "description": "Quick response police station"
+    }
+  ]
+}
